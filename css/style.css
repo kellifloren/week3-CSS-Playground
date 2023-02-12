@@ -1,0 +1,16 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Righteous&display=swap');  
+
+body {
+    background-color: rgb(231, 207, 176);
+}
+
+.heading {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: red;
+}
+.footer {
+  text-align: center;
+}
